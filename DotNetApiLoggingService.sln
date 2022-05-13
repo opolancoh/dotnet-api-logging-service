@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetApiLoggingServiceWeb", "DotNetApiLoggingServiceWeb\DotNetApiLoggingServiceWeb.csproj", "{E168A51F-A13A-4525-B004-5A8D76393C94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetApiLoggingServiceContracts", "DotNetApiLoggingServiceContracts\DotNetApiLoggingServiceContracts.csproj", "{6D6CDACD-E41D-459F-8A1C-10D0B30B3DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetApiLoggingServiceLoggerService", "DotNetApiLoggingServiceLoggerService\DotNetApiLoggingServiceLoggerService.csproj", "{A63EC99E-C4DF-427B-9E98-C1205771C266}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{E168A51F-A13A-4525-B004-5A8D76393C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E168A51F-A13A-4525-B004-5A8D76393C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E168A51F-A13A-4525-B004-5A8D76393C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D6CDACD-E41D-459F-8A1C-10D0B30B3DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6CDACD-E41D-459F-8A1C-10D0B30B3DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D6CDACD-E41D-459F-8A1C-10D0B30B3DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6CDACD-E41D-459F-8A1C-10D0B30B3DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A63EC99E-C4DF-427B-9E98-C1205771C266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63EC99E-C4DF-427B-9E98-C1205771C266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63EC99E-C4DF-427B-9E98-C1205771C266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63EC99E-C4DF-427B-9E98-C1205771C266}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
